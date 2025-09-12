@@ -1,5 +1,5 @@
 class Armstrong_number {
-    static boolean armstrongNumber(int n) {
+    public static boolean armstrongNumber(int n) {
         int temp = n;
         int sum = 0;
         
